@@ -4,9 +4,9 @@ public class Biurko {
     int dlugosc;
     int wysokosc;
 
-//    Biurko( int s, int d, int w){
-//        s = szerokosc;
-//        d = dlugosc;
-//        w = wysokosc;
-//    }
+    Biurko( int s, int d, int w){
+        s = szerokosc;
+        d = dlugosc;
+        w = wysokosc;
+    }
 }
